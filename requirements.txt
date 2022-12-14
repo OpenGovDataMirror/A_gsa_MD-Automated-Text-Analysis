@@ -1,0 +1,11 @@
+nltk
+bs4
+matplotlib
+pandas
+numpy
+
+gensim
+dill
+sklearn
+scipy
+xlrd
